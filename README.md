@@ -3,6 +3,8 @@
 Overview
 
 This C program displays the real-time current time and date in either 12-hour or 24-hour format. The time updates every second and is displayed continuously.
+
+
 ![Image Alt](https://github.com/rupjit23/real_time_digital_clock/blob/4044c50a82ed934484f5d68f20d52e127bbc50a3/output_3.png)
 
 Features
