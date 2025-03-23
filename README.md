@@ -20,3 +20,6 @@ Works on Windows, Linux, and macOS.
 
 ![Image Alt](https://github.com/rupjit23/real_time_digital_clock/blob/4044c50a82ed934484f5d68f20d52e127bbc50a3/output_1.png)
 ![Image Alt](https://github.com/rupjit23/real_time_digital_clock/blob/c3754132d1deffa7b5664982b282f849d50167e1/output_2.png)
+
+https://github.com/rupjit23/real_time_digital_clock/blob/3b30b28659d7d6da8e2578edace42f82f1f1fc7a/output_.mp4
+
