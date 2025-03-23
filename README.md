@@ -1,4 +1,4 @@
-Real-Time Digital Clock in C
+<h1>Real-Time Digital Clock in C</h1>
 
 Overview
 
