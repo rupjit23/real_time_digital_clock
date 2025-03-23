@@ -7,14 +7,16 @@ This C program displays the real-time current time and date in either 12-hour or
 
 ![Image Alt](https://github.com/rupjit23/real_time_digital_clock/blob/4044c50a82ed934484f5d68f20d52e127bbc50a3/output_3.png)
 
-Features
+--Features
 
 Displays the current time in 12-hour (AM/PM) or 24-hour format.
 
 Shows the current day and year.
 
 Live update every second.
-![Image Alt](https://github.com/rupjit23/real_time_digital_clock/blob/4044c50a82ed934484f5d68f20d52e127bbc50a3/output_1.png)
 Clears the screen before each update for a real-time effect.
 
 Works on Windows, Linux, and macOS.
+
+![Image Alt](https://github.com/rupjit23/real_time_digital_clock/blob/4044c50a82ed934484f5d68f20d52e127bbc50a3/output_1.png)
+![Image Alt](https://github.com/rupjit23/real_time_digital_clock/blob/c3754132d1deffa7b5664982b282f849d50167e1/output_2.png)
